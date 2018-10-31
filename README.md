@@ -1,9 +1,9 @@
 # Canvas Challenge
 This project is a test task for credit-suisse canvas challenge.
 
-# The Problem as it is decribed
-
-## Description
+## The Problem
+```
+__Description_
 
 You're given the task of writing a simple console version of a drawing program. 
 At this time, the functionality of the program is quire limited but this might change in the future. 
@@ -26,8 +26,8 @@ B x y c         Should fill the entire area connected to (x,y) with "colour" c. 
                 programs.
 Q               Should quit the program.
 
-## Sample I/O
-```
+__Sample I/O__
+
 Below is a sample run of the program. User input is prefixed with enter command:
 
 enter command: C 20 4
